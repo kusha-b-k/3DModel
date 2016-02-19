@@ -1,3 +1,6 @@
 language: node_js
 node_js:
   - "4.1"
+addons:
+    code_climate:
+        repo_token: 8f18b5966b7382d6849eee567c0f1f78da9db092c9c04ad69501f55c5d5824ec
