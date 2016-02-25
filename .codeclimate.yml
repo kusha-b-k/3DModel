@@ -4,6 +4,6 @@ engines:
     config:
       languages:
       - javascript
-        mass_threshold: 40
+        mass_threshold: 20
   nodesecurity:
        enabled: true
