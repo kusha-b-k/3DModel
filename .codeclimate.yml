@@ -5,5 +5,4 @@ engines:
       languages:
       - javascript
         mass_threshold: 20
-  nodesecurity:
-       enabled: true
+ 
